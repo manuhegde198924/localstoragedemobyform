@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color:lightgray;
+    background-image: url('./Adhaar-Card-Sample-Vector-File-sdfied.png');
+}
+
+.container {
+    color:darkblue;
+    padding: 20px;
+    
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    width: 80%;
+    max-width: 400px;
+    background-color:darkorange;
+    border-radius: 30%;
+    border:8px solid black;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: tomato;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#user-card {
+    display: none;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
+#MyPage {
+    background-color: green;
+    color:coral;
+    border-radius:20%;
+    border:10px solid navy;
+}
+#b1{
+    background-color: chartreuse;
+    color:blue
+}
+#b2{
+    background-color: darkblue;
+    color:tan;
+}
+h2{
+    color:darkmagenta;
+}
